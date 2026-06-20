@@ -1,2 +1,2 @@
-# digital-design
-my verilog and digital learning projects
+# ALU
+my verilog and digital learning project - ALU
