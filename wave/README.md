@@ -1,2 +1,2 @@
 waveform folder
-![ALU waveform](wave/alu.png)
+![ALU waveform](wave/waveform)
